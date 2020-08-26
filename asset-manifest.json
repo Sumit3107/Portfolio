@@ -1,31 +1,26 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6599d8ff.chunk.css",
-    "main.js": "/portfolio/static/js/main.0f5ea739.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0f5ea739.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.41f05d73.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.41f05d73.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.4c7b1ff4.chunk.css": "/portfolio/static/css/2.4c7b1ff4.chunk.css",
-    "static/js/2.fd671778.chunk.js": "/portfolio/static/js/2.fd671778.chunk.js",
-    "static/js/2.fd671778.chunk.js.map": "/portfolio/static/js/2.fd671778.chunk.js.map",
+    "static/js/2.b4362447.chunk.js": "/portfolio/static/js/2.b4362447.chunk.js",
+    "static/js/2.b4362447.chunk.js.map": "/portfolio/static/js/2.b4362447.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.af1c99e0ff863afa9b313cd7d83b9811.js": "/portfolio/precache-manifest.af1c99e0ff863afa9b313cd7d83b9811.js",
+    "precache-manifest.dd60770da1d653bae26e8a461aa4e607.js": "/portfolio/precache-manifest.dd60770da1d653bae26e8a461aa4e607.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.4c7b1ff4.chunk.css.map": "/portfolio/static/css/2.4c7b1ff4.chunk.css.map",
     "static/css/main.6599d8ff.chunk.css.map": "/portfolio/static/css/main.6599d8ff.chunk.css.map",
-    "static/js/2.fd671778.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fd671778.chunk.js.LICENSE.txt",
-    "static/media/basic.jpg": "/portfolio/static/media/basic.83c8ce4e.jpg",
-    "static/media/ektarfa.mp4": "/portfolio/static/media/ektarfa.c298d61f.mp4",
-    "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/logo.jpg": "/portfolio/static/media/logo.0b4e3127.jpg",
-    "static/media/ourblog.png": "/portfolio/static/media/ourblog.eb23289e.png",
-    "static/media/sumit.jpg": "/portfolio/static/media/sumit.2b7817d1.jpg"
+    "static/js/2.b4362447.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b4362447.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.4c7b1ff4.chunk.css",
-    "static/js/2.fd671778.chunk.js",
+    "static/js/2.b4362447.chunk.js",
     "static/css/main.6599d8ff.chunk.css",
-    "static/js/main.0f5ea739.chunk.js"
+    "static/js/main.41f05d73.chunk.js"
   ]
 }
