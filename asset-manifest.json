@@ -1,26 +1,34 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6599d8ff.chunk.css",
-    "main.js": "/portfolio/static/js/main.41f05d73.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.41f05d73.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0d1bec19.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0d1bec19.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.4c7b1ff4.chunk.css": "/portfolio/static/css/2.4c7b1ff4.chunk.css",
-    "static/js/2.b4362447.chunk.js": "/portfolio/static/js/2.b4362447.chunk.js",
-    "static/js/2.b4362447.chunk.js.map": "/portfolio/static/js/2.b4362447.chunk.js.map",
+    "static/js/2.c59d5133.chunk.js": "/portfolio/static/js/2.c59d5133.chunk.js",
+    "static/js/2.c59d5133.chunk.js.map": "/portfolio/static/js/2.c59d5133.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.dd60770da1d653bae26e8a461aa4e607.js": "/portfolio/precache-manifest.dd60770da1d653bae26e8a461aa4e607.js",
+    "precache-manifest.fc13b1363d6b2d6c95f575a95fb1f25d.js": "/portfolio/precache-manifest.fc13b1363d6b2d6c95f575a95fb1f25d.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.4c7b1ff4.chunk.css.map": "/portfolio/static/css/2.4c7b1ff4.chunk.css.map",
     "static/css/main.6599d8ff.chunk.css.map": "/portfolio/static/css/main.6599d8ff.chunk.css.map",
-    "static/js/2.b4362447.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b4362447.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff"
+    "static/js/2.c59d5133.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c59d5133.chunk.js.LICENSE.txt",
+    "static/media/basic.jpg": "/portfolio/static/media/basic.83c8ce4e.jpg",
+    "static/media/diltobaccha.mp4": "/portfolio/static/media/diltobaccha.083b10be.mp4",
+    "static/media/ektarfa.mp4": "/portfolio/static/media/ektarfa.c298d61f.mp4",
+    "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.jpg": "/portfolio/static/media/logo.0b4e3127.jpg",
+    "static/media/ourblog.png": "/portfolio/static/media/ourblog.eb23289e.png",
+    "static/media/sumit.jpg": "/portfolio/static/media/sumit.2b7817d1.jpg",
+    "static/media/timetracker.png": "/portfolio/static/media/timetracker.3ae9173b.png",
+    "static/media/tour.png": "/portfolio/static/media/tour.337d31a1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.4c7b1ff4.chunk.css",
-    "static/js/2.b4362447.chunk.js",
+    "static/js/2.c59d5133.chunk.js",
     "static/css/main.6599d8ff.chunk.css",
-    "static/js/main.41f05d73.chunk.js"
+    "static/js/main.0d1bec19.chunk.js"
   ]
 }
