@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#navbar {
+  background: linear-gradient(to top, #54748f, #fdf9f9); }
+
+.logo {
+  height: 10%;
+  width: 10%; }
+
+#jumbo {
+  background: linear-gradient(to bottom, #54748f, #fdf9f9);
+  color: #0c0c0c; }
+
+h1 {
+  font-family: cursive;
+  color: white; }
+
+h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+
+.footer {
+  background: linear-gradient(to bottom, #54748f, #fdf9f9); }
+
+a span {
+  text-decoration: none;
+  color: black; }
+
+#copy {
+  background-color: #525151;
+  color: white; }
