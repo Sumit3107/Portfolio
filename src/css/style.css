@@ -3,29 +3,35 @@
   padding: 0; }
 
 #navbar {
-  background: linear-gradient(to top, #54748f, #fdf9f9); }
+  background: linear-gradient(to bottom, #4a6b88, #0c0c0c); }
 
 .logo {
   height: 10%;
   width: 10%; }
 
 #jumbo {
-  background: linear-gradient(to bottom, #54748f, #fdf9f9);
+  background: linear-gradient(to top, #3b586e, #0c0c0c);
   color: #0c0c0c; }
 
+#jumbop {
+  background: linear-gradient(to top, #e3e4e6, #53555f); }
+
 h1 {
-  font-family: cursive;
-  color: white; }
+  font-family: "Times New Roman", Times, serif;
+  color: #fcfafa; }
 
 h2 {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; }
+
+h3 {
+  color: white; }
 
 .footer {
-  background: linear-gradient(to bottom, #54748f, #fdf9f9); }
+  background: linear-gradient(to bottom, #54748f, #0c0c0c); }
 
 a span {
   text-decoration: none;
-  color: black; }
+  color: #fcfafa; }
 
 #copy {
   background-color: #525151;

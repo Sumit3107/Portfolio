@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#navbar {
+  background: -webkit-gradient(linear, left top, left bottom, from(#4a6b88), to(#0c0c0c));
+  background: linear-gradient(to bottom, #4a6b88, #0c0c0c);
+}
+
+.logo {
+  height: 10%;
+  width: 10%;
+}
+
+#jumbo {
+  background: -webkit-gradient(linear, left bottom, left top, from(#3b586e), to(#0c0c0c));
+  background: linear-gradient(to top, #3b586e, #0c0c0c);
+  color: #0c0c0c;
+}
+
+#jumbop {
+  background: -webkit-gradient(linear, left bottom, left top, from(#e3e4e6), to(#53555f));
+  background: linear-gradient(to top, #e3e4e6, #53555f);
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #fcfafa;
+}
+
+h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  color: white;
+}
+
+.footer {
+  background: -webkit-gradient(linear, left top, left bottom, from(#54748f), to(#0c0c0c));
+  background: linear-gradient(to bottom, #54748f, #0c0c0c);
+}
+
+a span {
+  text-decoration: none;
+  color: #fcfafa;
+}
+
+#copy {
+  background-color: #525151;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
