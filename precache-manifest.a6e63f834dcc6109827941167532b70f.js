@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32e86782de803090128b70a41950cbf7",
+    "revision": "ebd4010b002d689584c08dc4d319d4ff",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "4377873d577bccd8d5cd",
+    "revision": "28d3f9dc4cd56cc93d08",
     "url": "/portfolio/static/css/2.4c7b1ff4.chunk.css"
   },
   {
-    "revision": "cb8fa6c384e032eab17c",
+    "revision": "63d37ae07a3832d862d3",
     "url": "/portfolio/static/css/main.cf660317.chunk.css"
   },
   {
-    "revision": "4377873d577bccd8d5cd",
-    "url": "/portfolio/static/js/2.072ab1b7.chunk.js"
+    "revision": "28d3f9dc4cd56cc93d08",
+    "url": "/portfolio/static/js/2.0453f01e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.072ab1b7.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.0453f01e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb8fa6c384e032eab17c",
-    "url": "/portfolio/static/js/main.77f23bac.chunk.js"
+    "revision": "63d37ae07a3832d862d3",
+    "url": "/portfolio/static/js/main.8c34fcc1.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83c8ce4e1fc6f03c19f2682d53a13598",
     "url": "/portfolio/static/media/basic.83c8ce4e.jpg"
+  },
+  {
+    "revision": "9e93a81dfc439784badfa35889bca03b",
+    "url": "/portfolio/static/media/boot.9e93a81d.jpg"
   },
   {
     "revision": "083b10be914967c61fd1f2a765100819",
@@ -66,6 +70,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6605d27bdfcddf38658e2c93ae13b677",
     "url": "/portfolio/static/media/ourblog.6605d27b.png"
+  },
+  {
+    "revision": "ca940531f2af0bccd2e56ed5f7365365",
+    "url": "/portfolio/static/media/react.ca940531.jpg"
+  },
+  {
+    "revision": "7ff33f0feb2ede883f25fb8f73003d7c",
+    "url": "/portfolio/static/media/s.7ff33f0f.jpg"
   },
   {
     "revision": "2b7817d140704e6915465493c5a45c7b",
