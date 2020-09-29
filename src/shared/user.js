@@ -29,5 +29,5 @@ export const USER={
     aboutimg:s,
     hobby:"Dance",
     himg: dance,
-    resume:"https://drive.google.com/file/d/1RnunZX5jjVKVTKAxGK8rMFzTpc1Gbxu0/view?usp=sharing"
+    resume:"https://drive.google.com/file/d/1k53QfhZNS0LsGH7vMMZEyqqCL5A4pNxt/view?usp=sharing"
 }
